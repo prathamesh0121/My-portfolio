@@ -1,2 +1,1 @@
-# my-portfolio
-Personal Developer Portfolio – Java Backend Developer
+# My-portfolio
